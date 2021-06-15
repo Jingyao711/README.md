@@ -1,0 +1,11 @@
+http://10.64.15.237/eai_anon_chs/start.swe?SWEExtSource=SecureWebService&SWEExtCmd=Execute&WSSOAP=1
+测试环境接口用户密码：JAPPUSER  JAPPUSER
+
+积分累计接口（粉丝狂欢月活动（累积））：
+orderId(订单编号)：线上活动  统一以“OA”开头
+orderchannel(订单来源渠道):Online_Activity
+orderType(订单类型):线上活动  统一传Activity ，其他活动根据具体值列表传
+prodNum(商品编号):1000084
+prodName(商品名称):粉丝狂欢月活动（累积）
+comments(备注)：写明是XXXXXX活动（XX为具体活动名称）
+其他参数按照接口文档要求进行传参
